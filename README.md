@@ -6,7 +6,7 @@ Full Python code examples below.
 
 <h3>Sentiment Analysis on Google Sheets with VADER using Python and Google Cloud Functions</h3>
 <p>A Cloud Function recipe for sentiment analysis</p>
-👉 <strong>Medium post</strong>: #
+📰 <strong>Medium post</strong>: #
 <br>
 👉 <strong>Full Python Code (on local)</strong>: https://github.com/Practical-ML/vader-sentiment-analysis/blob/main/local-main.py
 <br>
