@@ -1,6 +1,6 @@
 # vader-sentiment-analysis
 Running sentiment analysis on Google Cloud Functions from data on Google Sheets using VADER.
-Full Python code examples below.
+<br>Full Python code examples below.
 
 <h2>Read the Medium post</h2>
 
