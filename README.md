@@ -1,5 +1,5 @@
 # vader-sentiment-analysis
-Whilst there are already many amazing and detailed guides out there on how to run sentiment analysis in Python using VADER, TextBlob, etc, there is not much information online bar the standard "hello world" examples, on how to actually deploy sentiment analysis code live onto the cloud. <br>
+Whilst there are already many amazing and detailed guides out there on how to run sentiment analysis in Python using VADER, TextBlob, etc, there is not much information online bar the generic "Hello, World!" examples, on how to deploy sentiment analysis code live, step-by-step, onto the cloud. <br>
 So, in this article I've leaned heavier on how to set this all up (opting for Google Cloud), and gone very light on NLP data analysis techniques side of things.<br>
 We still discuss the main tasks such as deriving polarity and compound scores from text corpus so that we can determine whether it is positive, neutral or negative, but the primary goal of this article is to get those completely new to sentiment analysis, Python and Google Cloud in general, a chance at experimenting and getting something basic live.<br>
 We start with setting up a simple workflow using VS Code on a local machine, and then move onto configuring Google Cloud Functions directly from the GCP interface.<br>
