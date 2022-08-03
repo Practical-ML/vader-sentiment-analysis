@@ -9,7 +9,7 @@ We start with setting up a simple workflow with VS Code on a local machine using
 
 <h3> Sentiment Analysis on Google Sheets with VADER using Python and Google Cloud Functions</h3>
 <p>A Cloud Function recipe for sentiment analysis</p>
-📙 #
+📙 https://towardsdatascience.com/sentiment-analysis-on-google-sheets-with-vader-using-python-and-google-cloud-functions-e767985ed27d
 <br>
 <br>
 <ins><h4>Code Examples:</h4></ins>
