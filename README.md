@@ -5,11 +5,11 @@ We still discuss the main tasks such as deriving polarity and compound scores to
 We start with setting up a simple workflow using VS Code on a local machine, and then move onto configuring Google Cloud Functions directly from the GCP interface.<br>
 <br>Full Python code examples below.
 
-<h2>Read the Medium post</h2>
+<h2>Read the Medium article</h2>
 
-<h3>Sentiment Analysis on Google Sheets with VADER using Python and Google Cloud Functions</h3>
+<h3> 📰 Sentiment Analysis on Google Sheets with VADER using Python and Google Cloud Functions</h3>
 <p>A Cloud Function recipe for sentiment analysis</p>
-📰 <strong>Medium post</strong>: #
+#
 <br>
 <br>
 <ins><h4>Code Examples:</h4></ins>
