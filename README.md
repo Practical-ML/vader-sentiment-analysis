@@ -8,6 +8,7 @@ Learn how to run sentiment analysis on Google Cloud Functions from data on Googl
 <p>A Cloud Function recipe for sentiment analysis</p>
 📰 <strong>Medium post</strong>: #
 <br>
+<br>
 <ins>Code Examples</ins>
 <br>
 <br>
