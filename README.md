@@ -10,6 +10,7 @@ Learn how to run sentiment analysis on Google Cloud Functions from data on Googl
 <br>
 <ins>Code Examples</ins>
 <br>
+<br>
 👉 <strong>Full Python Code (on local)</strong>: https://github.com/Practical-ML/vader-sentiment-analysis/blob/main/local-main.py
 <br>
 <br>
