@@ -3,7 +3,7 @@
 # NOTE: This is the full Python code used and deployed in Google Cloud Functions as main.py
 
 # VIEW THE POST ON MEDIUM: 
-# 
+# https://towardsdatascience.com/sentiment-analysis-on-google-sheets-with-vader-using-python-and-google-cloud-functions-e767985ed27d
 ############################
  
 # load all libraries
