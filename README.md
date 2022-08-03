@@ -13,12 +13,12 @@ We start with setting up a simple workflow using VS Code on a local machine, and
 <br>
 <br>
 <ins><h4>Code Examples:</h4></ins>
-👉 <strong>Full Python Code (on local)</strong>: https://github.com/Practical-ML/vader-sentiment-analysis/blob/main/local-main.py
+📌 <strong>Full Python Code (on local)</strong>: https://github.com/Practical-ML/vader-sentiment-analysis/blob/main/local-main.py
 <br>
 <br>
-👉 <strong>Full Python Code (updated for Google Cloud Functions)</strong>: https://github.com/Practical-ML/vader-sentiment-analysis/blob/main/main.py
+📌 <strong>Full Python Code (updated for Google Cloud Functions)</strong>: https://github.com/Practical-ML/vader-sentiment-analysis/blob/main/main.py
 <br>
 <br>
-👉 <strong>The requirements.txt for Cloud Functions</strong>: https://github.com/Practical-ML/vader-sentiment-analysis/blob/main/requirements.txt
+📌 <strong>The requirements.txt for Cloud Functions</strong>: https://github.com/Practical-ML/vader-sentiment-analysis/blob/main/requirements.txt
 <br>
 <br>
